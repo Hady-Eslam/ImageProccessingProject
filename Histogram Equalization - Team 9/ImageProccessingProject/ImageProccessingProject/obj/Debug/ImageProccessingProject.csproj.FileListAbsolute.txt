@@ -1,0 +1,9 @@
+c:\users\itc\documents\visual studio 2015\Projects\ImageProccessingProject\ImageProccessingProject\bin\Debug\ImageProccessingProject.exe.config
+C:\Users\ITC\Documents\Visual Studio 2015\Projects\ImageProccessingProject\ImageProccessingProject\bin\Debug\ImageProccessingProject.exe
+C:\Users\ITC\Documents\Visual Studio 2015\Projects\ImageProccessingProject\ImageProccessingProject\bin\Debug\ImageProccessingProject.pdb
+C:\Users\ITC\Documents\Visual Studio 2015\Projects\ImageProccessingProject\ImageProccessingProject\obj\Debug\ImageProccessingProject.csprojResolveAssemblyReference.cache
+C:\Users\ITC\Documents\Visual Studio 2015\Projects\ImageProccessingProject\ImageProccessingProject\obj\Debug\ImageProccessingProject.Form1.resources
+C:\Users\ITC\Documents\Visual Studio 2015\Projects\ImageProccessingProject\ImageProccessingProject\obj\Debug\ImageProccessingProject.Properties.Resources.resources
+C:\Users\ITC\Documents\Visual Studio 2015\Projects\ImageProccessingProject\ImageProccessingProject\obj\Debug\ImageProccessingProject.csproj.GenerateResource.Cache
+C:\Users\ITC\Documents\Visual Studio 2015\Projects\ImageProccessingProject\ImageProccessingProject\obj\Debug\ImageProccessingProject.exe
+C:\Users\ITC\Documents\Visual Studio 2015\Projects\ImageProccessingProject\ImageProccessingProject\obj\Debug\ImageProccessingProject.pdb
